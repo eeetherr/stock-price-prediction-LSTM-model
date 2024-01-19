@@ -44,9 +44,11 @@ This project implements a Long Short-Term Memory (LSTM) neural network using Ker
 ## Results
 
 Figure 1: Training model loss over epochs.
+
 ![image](https://github.com/sakshamdev123/stock-price-prediction-LSTM-model/assets/105414841/ec86499b-18fb-4a42-bc91-84ea896e685c)
 
 Figure 2: Actual vs Predicted Stock Prices.
+
 ![image](https://github.com/sakshamdev123/stock-price-prediction-LSTM-model/assets/105414841/da84102f-c726-4a4e-a4a1-a48a55d380be)
 
 ## Collaboration
